@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎓 Scholarly-AI
 
 > **Transform Knowledge into Comprehensive Educational Materials**
@@ -663,3 +664,6 @@ Licensed under MIT License
 **Made with ❤️ for learners everywhere**
 
 </div>
+=======
+# scholarly-ai
+>>>>>>> d5e84f113a78f56b8f8f04ebd24e259bc615b015
